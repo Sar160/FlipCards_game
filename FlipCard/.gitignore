@@ -1,0 +1,40 @@
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Node modules
+node_modules/
+
+# Distribution folders
+dist/
+dist-ssr/
+
+# Local environment files
+*.local
+
+# IDE and editor files
+.vscode/
+.idea/
+
+# macOS specific files
+.DS_Store
+
+# Windows specific files
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Optional: Ignore package manager lock files if not using a specific one
+# package-lock.json
+# yarn.lock
+# pnpm-lock.yaml
+
+# Optional: Ignore build artifacts (if you don't want to commit generated files)
+# *.tgz
